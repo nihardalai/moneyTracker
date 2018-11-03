@@ -8,3 +8,5 @@
 /.vs/MoneyTracker/v15/Server/sqlite3/storage.ide-shm
 /.vs/MoneyTracker/v15/Server/sqlite3/storage.ide-wal
 /MoneyTracker/obj
+/.vs/config
+/MoneyTracker/bin/Debug/netcoreapp2.1
